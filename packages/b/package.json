@@ -1,0 +1,11 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/b.es.js",
+  "license": "MIT",
+  "module": "dist/b.es.js",
+  "peerDependencies": {
+    "preact": "10.5.*"
+  }
+}

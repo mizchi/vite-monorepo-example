@@ -1,0 +1,14 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/a.es.js",
+  "license": "MIT",
+  "module": "dist/a.es.js",
+  "dependencies": {
+    "prettier": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/prettier": "^2.2.3"
+  }
+}
